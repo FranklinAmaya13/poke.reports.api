@@ -1,0 +1,8 @@
+.env
+poke.api.env/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+__init__.py
+.python-version
